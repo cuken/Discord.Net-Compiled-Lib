@@ -1,0 +1,15 @@
+D:\DiscordNet\Discord.Net\src\Discord.Net.Modules.Net45\bin\Debug\Discord.Net.Modules.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Modules.Net45\bin\Debug\Discord.Net.Modules.pdb
+D:\DiscordNet\Discord.Net\src\Discord.Net.Modules.Net45\bin\Debug\Newtonsoft.Json.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Modules.Net45\bin\Debug\Nito.AsyncEx.Concurrent.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Modules.Net45\bin\Debug\Nito.AsyncEx.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Modules.Net45\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Modules.Net45\bin\Debug\RestSharp.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Modules.Net45\bin\Debug\WebSocket4Net.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Modules.Net45\bin\Debug\Discord.Net.Commands.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Modules.Net45\bin\Debug\Discord.Net.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Modules.Net45\bin\Debug\Discord.Net.Commands.pdb
+D:\DiscordNet\Discord.Net\src\Discord.Net.Modules.Net45\bin\Debug\Discord.Net.pdb
+D:\DiscordNet\Discord.Net\src\Discord.Net.Modules.Net45\obj\Debug\Discord.Net.Modules.csprojResolveAssemblyReference.cache
+D:\DiscordNet\Discord.Net\src\Discord.Net.Modules.Net45\obj\Debug\Discord.Net.Modules.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Modules.Net45\obj\Debug\Discord.Net.Modules.pdb

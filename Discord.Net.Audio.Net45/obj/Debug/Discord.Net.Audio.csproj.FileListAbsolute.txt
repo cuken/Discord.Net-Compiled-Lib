@@ -1,0 +1,15 @@
+D:\DiscordNet\Discord.Net\src\Discord.Net.Audio.Net45\bin\Debug\libsodium.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Audio.Net45\bin\Debug\opus.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Audio.Net45\bin\Debug\Discord.Net.Audio.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Audio.Net45\bin\Debug\Discord.Net.Audio.pdb
+D:\DiscordNet\Discord.Net\src\Discord.Net.Audio.Net45\bin\Debug\Newtonsoft.Json.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Audio.Net45\bin\Debug\Nito.AsyncEx.Concurrent.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Audio.Net45\bin\Debug\Nito.AsyncEx.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Audio.Net45\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Audio.Net45\bin\Debug\RestSharp.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Audio.Net45\bin\Debug\WebSocket4Net.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Audio.Net45\bin\Debug\Discord.Net.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Audio.Net45\bin\Debug\Discord.Net.pdb
+D:\DiscordNet\Discord.Net\src\Discord.Net.Audio.Net45\obj\Debug\Discord.Net.Audio.csprojResolveAssemblyReference.cache
+D:\DiscordNet\Discord.Net\src\Discord.Net.Audio.Net45\obj\Debug\Discord.Net.Audio.dll
+D:\DiscordNet\Discord.Net\src\Discord.Net.Audio.Net45\obj\Debug\Discord.Net.Audio.pdb
